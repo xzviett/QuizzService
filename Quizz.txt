@@ -1,0 +1,30 @@
+What is the capital of Japan?
+Tokyo
+Beijing
+Seoul
+Bangkok
+A
+Which planet is known as the Red Planet?
+Venus
+Mars
+Jupiter
+Saturn
+B
+Which language is primarily used for Android development?
+Python
+C++
+Java
+Ruby
+C
+Who developed the theory of relativity?
+Isaac Newton
+Albert Einstein
+Nikola Tesla
+Galileo Galilei
+B
+Which data type is used to store true/false values in Java?
+int
+boolean
+String
+double
+B
